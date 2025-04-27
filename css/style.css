@@ -103,6 +103,7 @@ img{
     background-size: contain;
     background-position: center bottom;
     height: 100px;
+    width: 100%;
 }
 
 /* Film Section */
