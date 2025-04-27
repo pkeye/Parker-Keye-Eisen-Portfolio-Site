@@ -1070,8 +1070,8 @@ h1 {
       float: left; /* Let the text wrap around the image */
       margin-right: 15px;
       margin-left: 10px;
-      margin-bottom: 15px;
-      width: 200px; /* Set an appropriate image width */
+      margin-bottom: 10px;
+      width: 150px; /* Set an appropriate image width */
     }
   
     .film-text {
@@ -1212,7 +1212,7 @@ h1 {
           margin-right: 15px;
           margin-left: 10px;
           margin-bottom: 15px;
-          width: 200px; /* Set an appropriate image width */
+          width: 100px; /* Set an appropriate image width */
         }
       
         .film-text {
@@ -1260,7 +1260,7 @@ h1 {
           margin-right: 15px;
           margin-left: 10px;
           margin-bottom: 15px;
-          width: 200px; /* Set an appropriate image width */
+          width: 100px; /* Set an appropriate image width */
         }
       
         .film-text {
