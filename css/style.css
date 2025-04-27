@@ -1037,6 +1037,26 @@ h1 {
 }
   }
 
+  @media (max-width: 436px) {
+    .navbar .main-menu {
+      display: none;
+  }
+
+  .navbar .hamburger-button {
+      display: block;
+  }
+
+  .hero-content h1 {
+      font-size: 28px;
+      margin-top: -25px;
+  }
+  
+  .hero .container {
+      background-size: 350px 500px;
+      height: 325px;
+    }
+  }
+
   @media (max-width: 406px) {
 
     .navbar .main-menu {
