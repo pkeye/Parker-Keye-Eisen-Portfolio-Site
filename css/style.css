@@ -1152,7 +1152,7 @@ h1 {
 
       }
 
-      @media (max-width: 300px) {
+      @media (max-width: 328px) {
 
         .navbar .main-menu {
           display: none;
@@ -1169,7 +1169,7 @@ h1 {
       
       .hero .container {
           background-size: 350px 400px;
-          height: 600px;
+          height: 550px;
         }
   
 
