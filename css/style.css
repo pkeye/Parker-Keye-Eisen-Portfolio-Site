@@ -1129,7 +1129,7 @@ h1 {
           }
         }
 
-      @media (max-width: 344px) {
+      @media (max-width: 352px) {
 
         .navbar .main-menu {
           display: none;
