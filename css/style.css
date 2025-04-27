@@ -1076,6 +1076,7 @@ h1 {
     .hero .container {
         background-size: 350px 400px;
         height: 410px;
+        margin-bottom: 25px;
       }
 
     .film .container-sm h2 {
